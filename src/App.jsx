@@ -44,6 +44,7 @@ function App() {
 
         {/* MAIN ROUTES */}
         <Route element={<MainLayout />}>
+          <Route path="/" element={<GuestDashboard />} />
           <Route path="/orders" element={<Orders />} />
           <Route path="/customers" element={<Customers />} />
           <Route path="/user" element={<User />} />
