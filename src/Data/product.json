@@ -1,0 +1,32 @@
+[
+    {
+      "kode_produk": "KP01",
+      "nama_produk": "Cappucino",
+      "harga": "Rp. 12.000",
+      "stok": 100
+    },
+    {
+      "kode_produk": "KP02",
+      "nama_produk": "Ikan Bakar",
+      "harga": "Rp. 55.000",
+      "stok": 15
+    },
+    {
+      "kode_produk": "KP03",
+      "nama_produk": "Lychee Tea",
+      "harga": "Rp. 25.000",
+      "stok": 170
+    },
+    {
+      "kode_produk": "KP04",
+      "nama_produk": "Ayam Goreng",
+      "harga": "Rp. 30.000",
+      "stok": 10
+    },
+    {
+      "kode_produk": "KP05",
+      "nama_produk": "Udang Goreng",
+      "harga": "Rp. 45.000",
+      "stok": 20
+    }
+]

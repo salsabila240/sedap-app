@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Andi",
+      "review": "Layanan sangat memuaskan dan cepat!",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Budi",
+      "review": "Pengalaman yang baik, saya sangat merekomendasikan.",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Citra",
+      "review": "Prosesnya mudah dan hasilnya memuaskan.",
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "Dewi",
+      "review": "Sangat membantu dan responsif.",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Eko",
+      "review": "Rekomendasi terbaik untuk yang butuh layanan ini.",
+      "rating": 5
+    }
+  ]
+  
