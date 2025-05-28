@@ -10,7 +10,7 @@ export default function Sidebar() {
             <Logo/>
         
             {/* List Menu */}
-            <GuestMenu/>
+            <ListMenu/>
             
             {/* Footer */}
             <div id="sidebar-footer" className="mt-auto">

@@ -4,6 +4,7 @@ import { BiErrorAlt, BiFoodMenu } from "react-icons/bi";
 import { MdDashboard } from "react-icons/md";
 import { Link } from "react-router-dom";
 import { NavLink } from "react-router-dom";
+import { MdFastfood } from "react-icons/md";
 
 export default function ListMenu() {
   const menuClass = ({ isActive }) =>
@@ -49,6 +50,12 @@ export default function ListMenu() {
         <li>
           <NavLink id="menu-6" to="/User" className={menuClass}>
             <AiOutlineUser className="mr-4 text-xl" /> User
+          </NavLink>
+        </li>
+        <li>
+          <NavLink id="menu-4" to="/products" className={menuClass}>
+            <MdFastfood className="mr-4 text-xl" />
+            Products
           </NavLink>
         </li>
       </ul>
